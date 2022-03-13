@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/tienda.movistar.com.pe",
     "slug": "tienda-movistar",
     "status": "up",
-    "uptime": "98.33%",
+    "uptime": "98.86%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.33%",
-    "uptimeMonth": "98.33%",
-    "uptimeYear": "98.33%",
-    "time": 2818,
-    "timeDay": 5478,
-    "timeWeek": 2818,
-    "timeMonth": 2818,
-    "timeYear": 2818,
+    "uptimeWeek": "98.86%",
+    "uptimeMonth": "98.86%",
+    "uptimeYear": "98.86%",
+    "time": 2711,
+    "timeDay": 1540,
+    "timeWeek": 2711,
+    "timeMonth": 2711,
+    "timeYear": 2711,
     "dailyMinutesDown": {
       "2022-03-10": 52
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 287,
-    "timeDay": 259,
-    "timeWeek": 287,
-    "timeMonth": 287,
-    "timeYear": 287,
+    "time": 279,
+    "timeDay": 233,
+    "timeWeek": 279,
+    "timeMonth": 279,
+    "timeYear": 279,
     "dailyMinutesDown": {}
   }
 ]
