@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "97.52%",
     "uptimeDay": "78.37%",
-    "uptimeWeek": "91.85%",
+    "uptimeWeek": "92.44%",
     "uptimeMonth": "94.71%",
     "uptimeYear": "97.52%",
     "time": 3748,
     "timeDay": 2685,
-    "timeWeek": 2827,
+    "timeWeek": 2711,
     "timeMonth": 2627,
     "timeYear": 3748,
     "dailyMinutesDown": {
@@ -102,9 +102,9 @@
     "url": "https://ventas.movistar.com.pe/inicio",
     "icon": "https://icons.duckduckgo.com/ip3/ventas.movistar.com.pe.ico",
     "slug": "dito",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -114,6 +114,7 @@
     "timeMonth": 1718,
     "timeYear": 701,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2022-05-23": 134,
       "2022-04-30": 41
     }
