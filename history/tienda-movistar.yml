@@ -1,7 +1,7 @@
 url: https://tienda.movistar.com.pe/celulares-liberados
-status: up
-code: 200
-responseTime: 24036
-lastUpdated: 2023-03-21T01:08:13.984Z
+status: down
+code: 502
+responseTime: 352
+lastUpdated: 2023-03-21T21:53:55.697Z
 startTime: Wed Mar 09 2022 20:49:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
