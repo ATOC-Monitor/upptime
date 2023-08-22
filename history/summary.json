@@ -6,17 +6,16 @@
     "slug": "tienda-movistar",
     "status": "up",
     "uptime": "97.78%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "96.16%",
-    "uptimeMonth": "96.60%",
-    "uptimeYear": "96.78%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.20%",
+    "uptimeMonth": "96.61%",
+    "uptimeYear": "96.77%",
     "time": 3683,
     "timeDay": 1894,
     "timeWeek": 4133,
-    "timeMonth": 3684,
-    "timeYear": 3271,
+    "timeMonth": 3685,
+    "timeYear": 3270,
     "dailyMinutesDown": {
-      "2023-08-21": 4,
       "2023-08-20": 230,
       "2023-08-18": 78,
       "2023-08-16": 75,
@@ -99,7 +98,8 @@
       "2023-03-18": 65,
       "2023-03-17": 100,
       "2023-03-16": 28,
-      "2023-03-15": 191
+      "2023-03-15": 191,
+      "2023-03-14": 20
     }
   },
   {
@@ -116,8 +116,8 @@
     "time": 974,
     "timeDay": 499,
     "timeWeek": 532,
-    "timeMonth": 479,
-    "timeYear": 1218,
+    "timeMonth": 464,
+    "timeYear": 1219,
     "dailyMinutesDown": {
       "2023-07-14": 51,
       "2023-07-13": 74,
