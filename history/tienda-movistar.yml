@@ -1,7 +1,7 @@
 url: https://tienda.movistar.com.pe/celulares-liberados
-status: down
-code: 503
-responseTime: 806
-lastUpdated: 2023-09-01T04:02:21.615Z
+status: up
+code: 200
+responseTime: 3699
+lastUpdated: 2023-09-01T05:23:35.597Z
 startTime: 2022-03-09T20:49:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
