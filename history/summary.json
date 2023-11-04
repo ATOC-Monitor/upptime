@@ -4,17 +4,17 @@
     "url": "https://tienda.movistar.com.pe/celulares-liberados",
     "icon": "https://icons.duckduckgo.com/ip3/tienda.movistar.com.pe.ico",
     "slug": "tienda-movistar",
-    "status": "up",
+    "status": "down",
     "uptime": "97.92%",
-    "uptimeDay": "74.58%",
+    "uptimeDay": "74.57%",
     "uptimeWeek": "92.61%",
     "uptimeMonth": "94.24%",
     "uptimeYear": "96.55%",
-    "time": 3375,
-    "timeDay": 2915,
-    "timeWeek": 3704,
-    "timeMonth": 3547,
-    "timeYear": 3231,
+    "time": 3372,
+    "timeDay": 2529,
+    "timeWeek": 3672,
+    "timeMonth": 3518,
+    "timeYear": 3228,
     "dailyMinutesDown": {
       "2023-11-04": 366,
       "2023-11-02": 61,
@@ -106,8 +106,7 @@
       "2023-05-24": 108,
       "2023-05-20": 48,
       "2023-05-18": 112,
-      "2023-05-17": 207,
-      "2023-05-16": 18
+      "2023-05-17": 207
     }
   },
   {
